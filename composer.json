@@ -19,7 +19,7 @@
   ],
   "homepage": "https://github.com/rasteiner/k3-pagesdisplay-section",
   "require": {
-    "getkirby/cms": "^3.7.2",
+    "getkirby/cms": "*",
     "getkirby/composer-installer": "^1.2"
   }
 }
