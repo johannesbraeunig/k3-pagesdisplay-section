@@ -1,7 +1,7 @@
 {
   "name": "rasteiner/k3-pagesdisplay-section",
   "description": "K3 plugin: display any page list in a section. Any parent, many parents, filtered, don't care.",
-  "version": "0.2.4",
+  "version": "0.0.1",
   "keywords": [
     "kirby",
     "kirby-3",
